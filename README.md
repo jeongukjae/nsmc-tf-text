@@ -4,7 +4,7 @@ tensorflow text로 간편하게 시작하는 NSMC 분류
 
 ## 설명
 
-https://jeongukjae.github.io/posts/tensorflow-text-and-ragged-tensor/
+https://blog.ukjae.io/posts/tensorflow-text-and-ragged-tensor/
 
 ## 결과
 
